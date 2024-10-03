@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KmLig
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React, NodeJS and ASP.NET Core
+- 🌱 I’m currently working with Reactjs, NodeJS and ASP.NET Core
 - 💞️ I’m looking to collaborate on both front end and back end web development
 - 📫 Reach me by leaving a message
 
